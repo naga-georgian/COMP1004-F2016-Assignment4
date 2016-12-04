@@ -172,8 +172,8 @@ namespace COMP1004_F2016_Assignment4
         {
             MessageBox.Show(
                 "Dollar Computers computer purchasing software v1.02\n\n"
-                + "Created By: Adam Bates | 200335831\n"
-                + "Last Revised: November 22, 2016\n\n"
+                + "Created By: Naga Rimmalapudi | 200277598\n"
+                + "Last Revised: December 1, 2016\n\n"
                 + "COMP1004-F2016-Assignment 4\n"
                 + "This application replicates the purchasing of computer hardware at a fake company called Dollar Computers. It uses an online SQL server and SQL database for all of the product information.",
                 "About - Dollar Computers"

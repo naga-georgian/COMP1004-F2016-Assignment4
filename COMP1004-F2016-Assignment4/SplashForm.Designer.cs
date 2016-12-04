@@ -43,9 +43,8 @@
             this.SubLabel.ForeColor = System.Drawing.SystemColors.ControlDark;
             this.SubLabel.Location = new System.Drawing.Point(146, 302);
             this.SubLabel.Name = "SubLabel";
-            this.SubLabel.Size = new System.Drawing.Size(183, 26);
+            this.SubLabel.Size = new System.Drawing.Size(0, 26);
             this.SubLabel.TabIndex = 3;
-            this.SubLabel.Text = "We Sell for Less!";
             // 
             // TitleLabel
             // 
@@ -55,9 +54,8 @@
             this.TitleLabel.ForeColor = System.Drawing.SystemColors.ControlDark;
             this.TitleLabel.Location = new System.Drawing.Point(45, 9);
             this.TitleLabel.Name = "TitleLabel";
-            this.TitleLabel.Size = new System.Drawing.Size(395, 55);
+            this.TitleLabel.Size = new System.Drawing.Size(0, 55);
             this.TitleLabel.TabIndex = 2;
-            this.TitleLabel.Text = "Dollar Computers";
             // 
             // SplashTimer
             // 
@@ -69,7 +67,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.BackgroundImage = global::COMP1004_F2016_Assignment4.Properties.Resources.loonie_background;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(487, 351);
             this.ControlBox = false;
