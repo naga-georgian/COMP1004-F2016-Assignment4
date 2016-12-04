@@ -12,6 +12,12 @@ using COMP1004_F2016_Assignment4.Properties;
 using COMP1004_F2016_Assignment4.Models;
 using System.IO;
 
+// Name: Naga Rimmalapudi
+// Student #: 200277598
+// Date: Dec 1, 2016
+// Dollar Computers
+
+
 namespace COMP1004_F2016_Assignment4
 {
     public partial class OrderForm : Form
