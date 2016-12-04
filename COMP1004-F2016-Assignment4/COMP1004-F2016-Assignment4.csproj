@@ -157,9 +157,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\loonie-background.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\generic-computer.jpeg" />
   </ItemGroup>
   <ItemGroup>
@@ -170,6 +167,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="dollar_coin.ico" />
+    <Content Include="Resources\loonie-background.png" />
     <None Include="Resources\stock-laptop.jpeg" />
     <None Include="Resources\stock-desktop.jpg" />
   </ItemGroup>
