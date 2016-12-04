@@ -8,6 +8,12 @@ using COMP1004_F2016_Assignment4.Models;
 using System.IO;
 using System.Text;
 
+// Name: Naga Rimmalapudi
+// Student #: 200277598
+// Date: Dec 1, 2016
+// Dollar Computers
+
+
 namespace COMP1004_F2016_Assignment4
 {
     static class Program
